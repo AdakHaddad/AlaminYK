@@ -19,14 +19,14 @@ export default function Sejarah() {
             Sejarah Alamin Yogyakarta
           </h3>
           <p className="text-gray-600">
-            Al-amin Yogyakarta pertama kali didirikan pada tanggal 24 Mei 1988,
+            AL-AMIN Yogyakarta pertama kali didirikan pada tanggal 24 Mei 1988,
             sebagai upaya untuk membina pemuda Alawiyyin di Yogyakarta. Kegiatan
             kami berlangsung aktif hingga tahun 1993, dan kemudian mengalami
             masa stagnasi. Namun, pada tanggal 7 Februari 1996, atau 17 Ramadhan
             1416 H, semangat untuk meneruskan perjuangan tak pernah padam.
             Kepengurusan baru terbentuk, dan kami kembali melanjutkan peran
-            kami. Dengan fokus pada dakwah Salafuna Ash Shalih, Al-amin
-            mengadakan berbagai kegiatan seperti Majlis Ta'lim, pengajian
+            kami. Dengan fokus pada dakwah Salafuna Ash Shalih, AL-AMIN
+            mengadakan berbagai kegiatan seperti Majlis Taklim, pengajian
             bulanan, serta kegiatan sosial dan budaya. Kami berkomitmen menjadi
             wahana yang memperkuat nilai-nilai keilmuan, keagamaan, dan ukhuwah
             islamiyah di kalangan pemuda Alawiyyin dan seluruh umat muslim.
