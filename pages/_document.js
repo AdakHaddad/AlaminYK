@@ -8,7 +8,7 @@ export default function Document() {
       <Head>
         <link rel="shortcut icon" href="/images/favicon.ico" />
       </Head>
-      <body>
+      <body className="font-sans">
         <div className="relative overflow-hidden opacity-20">
           <Image src="/images/BG.png" alt="" layout="fill" objectFit="cover" />
         </div>
