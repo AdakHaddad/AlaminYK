@@ -1,6 +1,5 @@
 import Image from "next/image";
 import { FaInstagram } from "react-icons/fa";
-import { Link as ScrollLink } from "react-scroll";
 
 export default function Nav() {
   return (
@@ -21,14 +20,12 @@ export default function Nav() {
         <a href="#" className="hover:text-[#17a05278] transition-colors">
           Home
         </a>
-        <ScrollLink
-          to="Sejarah"
-          smooth={true}
-          duration={500}
+        <a
+          href="#"
           className="hover:text-[#17a05278] transition-colors cursor-pointer"
         >
           Sejarah
-        </ScrollLink>
+        </a>
         <a href="#" className="hover:text-[#17a05278] transition-colors">
           Pustaka
         </a>

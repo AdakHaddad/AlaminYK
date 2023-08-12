@@ -10,21 +10,13 @@ export default function Home() {
       <Head>
         <title>AL-AMIN Yogyakarta</title>
       </Head>
-      <main className="mx-4 md:">
-        <div className="absolute">
-          <Image
-            src="/images/front.png"
-            alt="Sekretariat AL-AMIN Yogyakarta"
-            layout="fill"
-            objectFit="cover"
-          />
-        </div>
+      <main className="mx-4 ">
         {/* <Fade bottom> */}
-        <div className="flex px-20 space-x-2 my-40 ">
-          <h2 className="text-6xl md:text-5xl font-bold mb-4 px-8">
-            Selamat datang di AL-AMIN Yogyakarta
+        <div className="flex mx-14 px-5 space-y-2 my-40 ">
+          <h2 className="text-7xl md:text-3xl font-bold mt-4 ">
+            👋Selamat datang di AL-AMIN Yogyakarta
           </h2>
-          <p className="text-lg text-gray-600 max-w-screen-sm pt-5">
+          <p className="text-lg text-gray-600 max-w-screen-sm mt-2">
             Berpusat di Yogyakarta, AL-AMIN hadir sebagai wadah bagi generasi
             muda Alawiyyin untuk mempererat silaturrahim dan membangun ukhuwah
             islamiyah. Dengan semangat kebersamaan, kami berkomitmen menjaga dan
