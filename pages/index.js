@@ -12,9 +12,9 @@ export default function Home() {
       </Head>
       <main className="mx-4 ">
         {/* <Fade bottom> */}
-        <div className="flex mx-14 px-5 space-y-2 my-40 ">
-          <h2 className="text-7xl md:text-3xl font-bold mt-4 ">
-            👋Selamat datang di AL-AMIN Yogyakarta
+        <div className="flex px-10 space-y-2 py-40 ">
+          <h2 className="text-6xl md:text-3xl font-bold mt-4 max-w-sm">
+            👋Selamat datang di AL-AMIN Yogyakarta👋
           </h2>
           <p className="text-lg text-gray-600 max-w-screen-sm mt-2">
             Berpusat di Yogyakarta, AL-AMIN hadir sebagai wadah bagi generasi
