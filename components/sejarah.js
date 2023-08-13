@@ -1,18 +1,17 @@
 import Image from "next/image";
 export default function Sejarah() {
   return (
-    <div className="flex mt-60 space-x-4 px-20 py-10 w-full ">
-      <div className="w-1/2 pt-12">
+    <div className="lg:flex mt-60 md:px-20 mx-10 md:py-10 w-full">
+      <div className="w-1/2 pt-12 md:w-full">
         <Image
           src="/images/front.png"
           alt="Sejarah Alamin Yogyakarta"
           width={500}
           height={300}
-          objectFit="cover"
           className="rounded"
         />
       </div>
-      <div className="w-1/2">
+      <div className="lg:w-1/2 ">
         <h3 className="text-3xl font-semibold mb-2">
           Sejarah Alamin Yogyakarta
         </h3>

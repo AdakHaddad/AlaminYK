@@ -3,7 +3,7 @@ import { FaInstagram } from "react-icons/fa";
 
 export default function Nav() {
   return (
-    <nav className="text-[#17A052] p-5 pl-10 flex justify-between ">
+    <nav className="text-[#17A052] p-5 pl-10  justify-between md:flex">
       <div>
         <a href="#" className="flex items-center">
           <Image
@@ -16,7 +16,8 @@ export default function Nav() {
           <span className="text-xl font-semibold">AL-AMIN Yogyakarta</span>
         </a>
       </div>
-      <div className="flex text-lg items-center space-x-10 px-10 ">
+
+      <div className=" text-lg items-center space-x-10 px-10  ">
         <a href="#" className="hover:text-[#17a05278] transition-colors">
           Home
         </a>
