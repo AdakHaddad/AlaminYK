@@ -1,5 +1,4 @@
 import Image from "next/image";
-import { FaInstagram } from "react-icons/fa";
 
 export default function Nav() {
   return (
@@ -30,14 +29,7 @@ export default function Nav() {
         <a href="#" className="hover:text-[#17a05278] transition-colors">
           Pustaka
         </a>
-        <a
-          href="https://www.instagram.com/alamin.yogyakarta"
-          target="_blank"
-          rel="noopener noreferrer"
-          className="hover:text-[#17a05278] transition-colors"
-        >
-          <FaInstagram />
-        </a>
+
       </div>
     </nav>
   );
