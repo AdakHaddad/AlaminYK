@@ -17,8 +17,6 @@ export default function Document() {
         />
         <meta name="author" content="Alamin " />
         <link rel="shortcut icon" href="/images/favicon.ico" />
-        {/* Add other meta tags as needed for SEO optimization */}
-        <title>Your Page Title</title>
       </Head>
       <body>
         <Nav />

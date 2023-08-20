@@ -29,7 +29,6 @@ export default function Nav() {
         <a href="#" className="hover:text-[#17a05278] transition-colors">
           Pustaka
         </a>
-
       </div>
     </nav>
   );

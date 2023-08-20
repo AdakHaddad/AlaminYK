@@ -1,7 +1,7 @@
 import Image from "next/image";
 export default function Sejarah() {
   return (
-    <div className="lg:flex mt-60 md:px-20 mx-10 md:py-10 w-full">
+    <div className="lg:flex mt-60 md:px-20 mx-10 md:py-10 ">
       <div className="w-1/2 pt-12 md:w-full">
         <Image
           src="/images/front.png"
