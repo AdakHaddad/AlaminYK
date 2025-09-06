@@ -29,6 +29,14 @@ export default function Nav() {
         <a href="#" className="hover:text-[#17a05278] transition-colors">
           Pustaka
         </a>
+        <a 
+          href="https://alamin-lib.page.gd" 
+          target="_blank" 
+          rel="noopener noreferrer"
+          className="hover:text-[#17a05278] transition-colors"
+        >
+          Maktabib
+        </a>
       </div>
     </nav>
   );
